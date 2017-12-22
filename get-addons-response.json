@@ -1,0 +1,740 @@
+{
+    "get-addons": {
+      "products": {
+        "product": [
+          {
+            "available": "true",
+            "id": "30050",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-COOLHEAD-SEAT-01",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "32500"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                },
+                {
+                  "code": "30",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "content": "30054",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "content": "OD-AC-NORMAL-SEAT-03",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "20500"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                },
+                {
+                  "code": "31",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30048",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-SMS-01",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "2500"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "43",
+                  "content": "Yes"
+                },
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30046",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-INS-1TO30-24-01",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "20000"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30058",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-INS-1TO30-25-02",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "20000"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30059",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-INS-31TO45-24-03",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "17000"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30060",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-INS-31TO45-25-04",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "28500"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30049",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-BAG5-01",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "112500"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "25",
+                  "content": "05"
+                },
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30051",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-BAG10-02",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "224500"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "25",
+                  "content": "10"
+                },
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30052",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-BAG15-03",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "337000"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "25",
+                  "content": "15"
+                },
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          },
+          {
+            "available": "true",
+            "id": "30057",
+            "product-type-id": "27",
+            "rate-code": "Y",
+            "sku": "OD-AC-BAG20-04",
+            "tag": "1",
+            "trip-count": "1",
+            "type": "ancillary",
+            "amount": {
+              "country-id": "644",
+              "currency": "THB",
+              "content": "449000"
+            },
+            "trips": {
+              "trip": {
+                "seq": "1",
+                "origin": "2000039",
+                "destination": "2000026",
+                "departure-time": "2018-02-07T11:10:00.000+00:00",
+                "arrival-time": "2018-02-07T13:20:00.000+00:00",
+                "transportation": {
+                  "id": "90",
+                  "vehicle": {
+                    "id": "1",
+                    "content": "738"
+                  },
+                  "carriers": {
+                    "carrier": [
+                      {
+                        "code": "OD",
+                        "type-id": "1",
+                        "number": "523"
+                      },
+                      {
+                        "code": "OD",
+                        "type-id": "2",
+                        "number": "523"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "passengers": {
+              "passenger": {
+                "id": "1",
+                "content": "1"
+              }
+            },
+            "service-level": "3",
+            "properties": {
+              "property": [
+                {
+                  "code": "25",
+                  "content": "20"
+                },
+                {
+                  "code": "26",
+                  "content": "Yes"
+                },
+                {
+                  "code": "27",
+                  "content": "Yes"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+}
