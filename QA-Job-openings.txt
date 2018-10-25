@@ -1,0 +1,180 @@
+﻿1) 
+Job Code: RR-26537
+Positoin: Automation QA
+Skills: Automation, Selenium RC
+Exp: 3.00 to 5.00 Yrs
+Location: Bangalore
+
+Job Description: Automation Testing (M2)
+
+Job involves automating UI based applications primarily web based applications. Any experience using scripting languages like Perl, Unix Shell Scripting is added value. Strong process knowledge on building frameworks is required
+
+Mandatory
+
+-Experience of using test automation software –UFT/QTP, Selenium, SOAPUI
+
+-Experience in Web services and API testing.
+
+-Basic Working experience in SQL/Oracle
+
+-Knowledge of implementing automation in agile environment.
+
+-Experience in any scripting language like Perl/Python
+
+-Experience in creating test automation strategy
+
+-Good problem solving and communication skills
+
+ Roles and Responsibilities
+
+Creation and implementation of Automation Strategies and Frameworks.
+Creating automated test scripts from manual test cases or scenarios.
+Maintenance of existing product test scripts.
+Creation and maintenance of relevant test documentation for script deployment and script usage.
+Is involved in understanding business requirements and work with the architect and development team to make any design improvements and refinement as needed to incorporate automation testability into product. 
+Work in Agile teams to implement effective strategy to handle regression.
+Attend and contribute to regular review sessions with project teams.
+
+=====================================================================================
+Job Code: RR-26490
+Positoin: Senior QALead	
+Skills: Manual Testing , QA
+Exp: 5.00 to 8.00 Yrs
+Location: Bangalore
+
+Job Description: QA Engineer:
+
+Technical – Required Skills:
+
+* 5 to 6 years Hands on experience on Manual testing.
+
+* Should be strong in designing Automation Framework
+
+* Develop reusable libraries for ease of maintenance of scripts
+
+* Hands on experience on SQL Database
+
+* Knowledge of Requirement Analysis, Test Case Writing, Test case Execution, Defect Reporting Knowledge of SDLC, STLC, Test Reporting  and Defect Life cycle
+
+* Supports project management in effort estimation by defining and estimating work-break-downs and defining task specifications
+
+* Review work products and ensure the quality of deliverables
+
+* Strong debugging skills
+
+* Basic understanding of working of industrial drives and FDT-DTM technology would be preferable
+
+* Good to have knowledge and working experience on Distributed Testing, TFS and Continuous integration
+
+* Knowledge on performance testing tools and other automation tools like Selenium would be an advantage
+ 
+
+ Additional Skills:
+ 
+* Ability to work independently and as part of a team
+
+* Self-Motivated
+
+* Good Written and Verbal Communication skills
+
+
+=====================================================================================
+Job Code: RR-26272
+Positoin: Tester
+Skills: Ruby, Automation testing in db, Selenium RC
+Exp: 5.00 to 8.00 Yrs
+Location: Bangalore
+
+Role and Responsibility
+
+Requirements analysis, Design, develop, test, integration, deployment and deliver high quality software in timely manner
+Write functional, design specification and unit test case documents
+Interact cross functionally on matters that require coordination across organization lines
+Self-starter with the ability to work with minimal supervision and manage time effectively
+Demonstrated Experience
+
+4 to 8 yrs. of related industry experience in automation Testing
+Overall 4+ years of hands in Selenium
+Must have Hands on experience with Selenium, Ruby, java/GO, linux
+Experience with deployment and monitoring
+Experience in Git, SVN, Jira, JSON
+Familiar with Agile Tools and Methodologies
+Should be conversant in software development tools and debuggers
+Proficient in software development tools, source code control environment.
+Excellent analytical, problem-solving, programming and trouble shooting skills required.
+Good written, verbal communication and interpersonal skills required.
+Demonstrated experience owning a feature from requirements analysis through to general availability in market
+
+
+=====================================================================================
+Job Code: RR-26272
+Positoin: Tester
+Skills: Ruby, Automation testing in db, Selenium RC
+Exp: 5.00 to 8.00 Yrs
+Location: Bangalore
+
+Role and Responsibility
+
+Requirements analysis, Design, develop, test, integration, deployment and deliver high quality software in timely manner
+Write functional, design specification and unit test case documents
+Interact cross functionally on matters that require coordination across organization lines
+Self-starter with the ability to work with minimal supervision and manage time effectively
+Demonstrated Experience
+
+4 to 8 yrs. of related industry experience in automation Testing
+Overall 4+ years of hands in Selenium
+Must have Hands on experience with Selenium, Ruby, java/GO, linux
+Experience with deployment and monitoring
+Experience in Git, SVN, Jira, JSON
+Familiar with Agile Tools and Methodologies
+Should be conversant in software development tools and debuggers
+Proficient in software development tools, source code control environment.
+Excellent analytical, problem-solving, programming and trouble shooting skills required.
+Good written, verbal communication and interpersonal skills required.
+Demonstrated experience owning a feature from requirements analysis through to general availability in market
+
+
+
+
+=====================================================================================
+Job Code: RR-26254
+Positoin: Senior Test Engineer
+Skills:  Testing Tool, General Testing , Automation, Java API for Integrated Networks, Web driver Test Automation
+Exp: 3.00 to 5.00 Yrs
+Location: Bangalore
+
+Role and Responsibility
+
+Candidate shall be responsible for Test case development for the system validation as a black box
+Candidate shall be responsible for test execution ofr the system validation as a black box
+Candidate shall also be responsible for white box testing in some cases where specific components may have to be validated
+Candidate shall be responsible for writing scripts with specific tools that would be used for test automation or result verification
+Candidate shall be responsible for generation of test reports through standard test tools/frameworks
+Demonstrated Experience
+
+Candidate's experience should be specifically around test and validation of Cloud based platforms and applications. Testing of Platforms used in Connected Car and IoT space would be a plus. 
+Any testing done on mobile application (Android and iOS) and Web portals would be a plus
+Candidate should have minimum experience of 4 years in manual testing. Any experience on automation would be a plus.
+Candidate should have hands-on experience with use of API testing tools such as Curl, JMeter, Postman etc
+Candidate should have experience with Test management tools like Test director, Test Link etc
+Candidate should have experience with any one of the scripting languages e.g. Shell, Perl, Python
+Candidate should have experience with database tools. Database could be SQL e.g. PostGres or NoSQL e.g. MongoDB
+Candidate should have experience in testing of EtE applications.
+
+
+
+=====================================================================================
+Job Code: NR-7230
+Positoin: Test engineer	
+Skills: Test Automation	
+Exp: 8.00 to 10.00 Yrs	
+Location: Bangalore
+
+
+Be an advocate and leader for Test Automation and test Java applications.
+Establish and communicate automation strategies and processes
+Evaluate and implement software test automation tools and tooling standards
+Be able and willing to perform hands-on automation scripting and execution tasks
+Work with developers to support unit testing, build and deploy pipelines supporting a drive toward CI/CD
+Must have proficiency and hands on experience in Java/Cucumber/Junit/groovy, Bash on
+Firm understanding of the software development lifecycle and Agile/Scrum based testing including peer review, test automation, continuous integration.
